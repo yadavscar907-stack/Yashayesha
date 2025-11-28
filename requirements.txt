@@ -1,0 +1,4 @@
+Flask
+instagrapi==1.19.8
+requests
+Pillow
